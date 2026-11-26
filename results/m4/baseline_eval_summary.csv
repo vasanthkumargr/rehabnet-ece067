@@ -1,0 +1,8 @@
+exercise,reps,generic,personal,combined
+arm_abduction,237,0.714,0.587,0.705
+arm_vw,231,0.685,0.666,0.695
+leg_abduction,277,0.731,0.502,0.718
+lunge,213,0.662,0.55,0.65
+pushup_table,101,0.766,0.601,0.8
+squat,298,0.651,0.574,0.663
+MEAN,1357,0.701,0.58,0.705

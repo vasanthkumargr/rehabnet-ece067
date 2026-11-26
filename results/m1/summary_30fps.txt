@@ -1,0 +1,97 @@
+== detection_by_view
+cam  view   
+c17  front      1.0
+     profile    1.0
+c18  front      1.0
+     profile    1.0
+
+== detection_by_light
+lights
+0    1.0
+
+== kp_by_joint
+              nme  pck10  pck20
+joint                          
+l_ankle     0.113  0.494  0.969
+l_elbow     0.148  0.500  0.800
+l_hip       0.128  0.299  0.933
+l_knee      0.059  0.896  0.974
+l_shoulder  0.084  0.649  0.967
+l_wrist     0.173  0.467  0.773
+r_ankle     0.112  0.659  0.951
+r_elbow     0.153  0.410  0.794
+r_hip       0.120  0.407  0.934
+r_knee      0.101  0.730  0.915
+r_shoulder  0.099  0.631  0.892
+r_wrist     0.182  0.350  0.756
+
+== kp_by_view
+           nme  pck10  pck20
+view                        
+front    0.099  0.594  0.941
+profile  0.147  0.488  0.835
+
+== kp_by_light
+          nme  pck10  pck20
+lights                     
+0       0.123  0.541  0.888
+
+== angles_key_by_src
+               mae     r
+src                     
+mp2d         16.90  0.67
+mp3d         14.41  0.69
+mp3d_smooth  14.67  0.68
+
+== angles_key_by_src_view
+           mae                        r                  
+src       mp2d   mp3d mp3d_smooth  mp2d  mp3d mp3d_smooth
+view                                                     
+front    16.04  13.56       13.78  0.65  0.70        0.69
+profile  17.76  15.25       15.56  0.70  0.67        0.68
+
+== angles_by_angle
+              mae   bias     r
+angle                         
+hip_abd_l    5.58  -3.40  0.47
+hip_abd_r    8.07  -5.79  0.64
+l_elbow     24.85  18.65  0.79
+l_hip       16.63  15.90  0.89
+l_knee      12.16   5.36  0.83
+l_shoulder  16.12  -0.14  0.78
+r_elbow     23.47   4.88  0.51
+r_hip       12.05   9.03  0.78
+r_knee      14.75  12.10  0.66
+r_shoulder  19.12  -5.19  0.72
+trunk_lean   5.01  -0.87  0.51
+
+== angles_by_ex
+src   mp2d   mp3d  mp3d_smooth
+ex                            
+1    18.08  16.40        17.00
+2    20.37  19.55        19.63
+3    24.78  21.09        21.11
+4     7.65   6.63         6.69
+5    17.48  14.47        14.56
+6    15.78  11.48        12.27
+
+== rom_err_by_src
+              mean  median
+src                       
+mp2d         22.34   13.07
+mp3d_smooth  19.08   14.03
+
+== rom_corr
+src
+mp2d           0.722
+mp3d_smooth    0.791
+
+== normalisation
+jitter_raw       0.0059
+jitter_smooth    0.0027
+nme_raw          0.1227
+nme_smooth       0.1237
+cv_torso_px      0.0480
+cv_torso_norm    0.0784
+box_size_cv      0.0926
+

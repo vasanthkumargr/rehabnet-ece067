@@ -1,0 +1,4 @@
+{'host': 'kaggle_t4', 'delegate': 'cpu', 'model': 'lite', 'median_ms': 18.4, 'fps': 54.3, 'detected': 1.0}
+{'host': 'kaggle_t4', 'delegate': 'cpu', 'model': 'full', 'median_ms': 23.3, 'fps': 42.8, 'detected': 1.0}
+{'host': 'kaggle_t4', 'delegate': 'cpu', 'model': 'heavy', 'median_ms': 68.6, 'fps': 14.6, 'detected': 1.0}
+BEST_DELEGATE=cpu

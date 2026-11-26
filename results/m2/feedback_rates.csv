@@ -1,0 +1,8 @@
+exercise,incorrect: no correction,correct: told good
+arm_abduction,0.619,0.744
+arm_vw,0.64,0.734
+leg_abduction,0.428,0.662
+lunge,0.234,0.327
+pushup_table,0.264,0.529
+squat,0.451,0.69
+ALL,0.457,0.636

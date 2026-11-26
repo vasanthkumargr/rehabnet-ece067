@@ -1,0 +1,14 @@
+# Minimal dependencies to RUN the RehabNet web server (pose estimation runs in the browser).
+numpy
+dtaidistance
+matplotlib
+fastapi
+uvicorn[standard]
+sqlalchemy
+bcrypt
+pyjwt
+pyotp
+qrcode[pil]
+cryptography
+python-multipart
+reportlab

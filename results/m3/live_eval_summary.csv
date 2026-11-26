@@ -1,0 +1,8 @@
+exercise,counted,matched,auc,correct_told_good,incorrect_corrected,mean_score_correct,mean_score_incorrect
+arm_abduction,303,293,0.678,0.777,0.448,80.058,66.43
+arm_vw,473,404,0.617,0.746,0.234,87.49,81.891
+leg_abduction,374,362,0.749,0.767,0.488,82.356,63.749
+lunge,338,337,0.589,0.587,0.503,69.166,62.573
+pushup_table,254,215,0.763,0.712,0.432,82.819,65.048
+squat,389,388,0.677,0.705,0.45,81.756,72.271
+ALL,2131,1999,0.679,0.717,0.412,80.887,69.513

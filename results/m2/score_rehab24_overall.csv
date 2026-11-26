@@ -1,0 +1,6 @@
+src,mode,reps,score_auc,global_weights_auc,posture_only,per_exercise_LR,score_front,score_half-profile,score_profile
+gt,generic,1600,0.624,0.686,0.716,0.645,0.612,0.741,0.612
+gt,personal,1538,0.75,0.72,0.832,0.79,0.738,0.773,0.738
+mp,generic,1620,0.716,0.706,0.691,0.559,0.71,0.637,0.742
+mp,generic_view,1540,0.657,0.638,0.672,0.552,0.683,0.679,0.705
+mp,personal,1558,0.643,0.618,0.633,0.662,0.642,0.489,0.661

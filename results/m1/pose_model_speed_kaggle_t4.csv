@@ -1,0 +1,7 @@
+host,delegate,model,median_ms,fps,detected,error
+kaggle_t4,cpu,lite,18.4,54.3,1.0,
+kaggle_t4,cpu,full,23.3,42.8,1.0,
+kaggle_t4,cpu,heavy,68.6,14.6,1.0,
+kaggle_t4,gpu,lite,,,,"W0000 00:00:1795632852.946453     346 gl_context_egl.cc:214] Failed to get default EGL display, trying multi-gpu EGL display selection."
+kaggle_t4,gpu,full,,,,"W0000 00:00:1795632859.804310     398 gl_context_egl.cc:214] Failed to get default EGL display, trying multi-gpu EGL display selection."
+kaggle_t4,gpu,heavy,,,,"W0000 00:00:1795632866.603859     450 gl_context_egl.cc:214] Failed to get default EGL display, trying multi-gpu EGL display selection."

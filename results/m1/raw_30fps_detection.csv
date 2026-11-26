@@ -1,0 +1,13 @@
+video,ex,cam,view,lights,frames,detected
+PM_000,1,c17,front,0,1086,1.0
+PM_000,1,c18,profile,0,1086,1.0
+PM_003,2,c17,front,0,3532,1.0
+PM_003,2,c18,profile,0,3532,1.0
+PM_005,4,c17,front,0,1656,1.0
+PM_005,4,c18,profile,0,1656,1.0
+PM_008,6,c17,front,0,2994,1.0
+PM_008,6,c18,profile,0,2994,1.0
+PM_010,3,c17,profile,0,1844,1.0
+PM_010,3,c18,front,0,1844,1.0
+PM_021,5,c17,front,0,1919,1.0
+PM_021,5,c18,profile,0,1919,1.0

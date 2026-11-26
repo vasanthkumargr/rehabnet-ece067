@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+# private / generated
+app/data/secrets.json
+app/data/*.db
+app/data/*.pem
+app/data/DEMO_ACCOUNTS.md
+# large data (re-downloadable, see README)
+data/rehab24_6/
+data/mp_rehab24/
+data/processed/rehab24_reps.pkl
+app/web/media/samples/*.mp4
+kaggle/out_*/
+kaggle/*/*.py
+
+# re-creatable with scripts/m1_preprocess_rehabpile.py (licensed source data)
+data/processed/kimore.pkl
+data/processed/uiprmd.pkl
+# old bundle (duplicates deliverables/)
+deliverables.zip
+# Office lock files
+~$*

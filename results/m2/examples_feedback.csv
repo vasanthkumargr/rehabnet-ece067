@@ -1,0 +1,56 @@
+exercise,video,rep,label,score,feedback
+Squat,PM_008,1,correct,70,Good repetition - keep it up!
+Squat,PM_008,2,correct,76,Good repetition - keep it up!
+Squat,PM_008,3,correct,71,"Bend your right knee more (moved 26°, aim for about 80°)."
+Squat,PM_008,4,correct,75,Good repetition - keep it up!
+Squat,PM_008,5,correct,70,Move both sides evenly - one side is doing more than the other.
+Squat,PM_008,6,correct,90,"Bend your right knee more (moved 18°, aim for about 80°)."
+Squat,PM_008,7,correct,68,"Bend your right knee more (moved 13°, aim for about 80°). Watch your left knee - the movement path differs from the demonstration."
+Squat,PM_008,8,correct,77,"Bend your right knee more (moved 13°, aim for about 80°). Watch your left knee - the movement path differs from the demonstration."
+Squat,PM_008,9,correct,83,"Bend your right knee more (moved 14°, aim for about 80°)."
+Squat,PM_008,10,correct,65,"Bend your right knee more (moved 19°, aim for about 80°). Watch your left knee - the movement path differs from the demonstration."
+Squat,PM_008,11,correct,89,"Bend your right knee more (moved 30°, aim for about 80°)."
+Squat,PM_008,12,correct,75,"Watch your left knee - the movement path differs from the demonstration. Bend your right knee more (moved 35°, aim for about 80°)."
+Squat,PM_008,13,correct,74,Good repetition - keep it up!
+Squat,PM_008,14,correct,74,Good repetition - keep it up!
+Squat,PM_008,15,correct,82,Good repetition - keep it up!
+Squat,PM_008,16,correct,77,Good repetition - keep it up!
+Squat,PM_008,17,incorrect,66,Good repetition - keep it up!
+Squat,PM_008,18,correct,80,Good repetition - keep it up!
+Squat,PM_008,19,correct,84,Good repetition - keep it up!
+Squat,PM_008,20,correct,91,Good repetition - keep it up!
+Squat,PM_008,21,correct,90,Good repetition - keep it up!
+Squat,PM_008,22,correct,88,Good repetition - keep it up!
+Squat,PM_008,23,incorrect,86,Good repetition - keep it up!
+Squat,PM_008,24,incorrect,77,Keep your chest still (it moved 15° more than it should).
+Squat,PM_008,25,incorrect,74,Good repetition - keep it up!
+Squat,PM_008,26,incorrect,86,Good repetition - keep it up!
+Squat,PM_008,27,incorrect,33,Watch your hips - the movement path differs from the demonstration. Keep your chest still (it moved 19° more than it should).
+Squat,PM_008,session,,77,"27 reps, consistency 85/100, weakest factor: posture"
+Arm abduction,PM_000,1,correct,64,Keep your upper body upright (it moved 7° more than it should).
+Arm abduction,PM_000,2,correct,60,Good repetition - keep it up!
+Arm abduction,PM_000,3,correct,56,Keep your upper body upright (it moved 7° more than it should).
+Arm abduction,PM_000,4,correct,50,Keep your upper body upright (it moved 8° more than it should).
+Arm abduction,PM_000,5,correct,59,Keep your upper body upright (it moved 5° more than it should).
+Arm abduction,PM_000,session,,58,"5 reps, consistency 92/100, weakest factor: stability"
+Leg abduction,PM_005,1,correct,96,Good repetition - keep it up!
+Leg abduction,PM_005,2,correct,100,Good repetition - keep it up!
+Leg abduction,PM_005,3,correct,66,Keep your upper body upright (it moved 9° more than it should).
+Leg abduction,PM_005,4,correct,74,Keep your upper body upright (it moved 8° more than it should).
+Leg abduction,PM_005,5,correct,74,Good repetition - keep it up!
+Leg abduction,PM_005,6,incorrect,91,Good repetition - keep it up!
+Leg abduction,PM_005,7,incorrect,95,Good repetition - keep it up!
+Leg abduction,PM_005,8,incorrect,96,Good repetition - keep it up!
+Leg abduction,PM_005,9,incorrect,70,"Slow down - that took 1.7 s, aim for about 2.9 s."
+Leg abduction,PM_005,10,correct,95,Good repetition - keep it up!
+Leg abduction,PM_005,11,correct,97,Good repetition - keep it up!
+Leg abduction,PM_005,12,correct,98,Good repetition - keep it up!
+Leg abduction,PM_005,13,correct,93,Good repetition - keep it up!
+Leg abduction,PM_005,14,correct,91,Good repetition - keep it up!
+Leg abduction,PM_005,15,incorrect,42,Keep your upper body upright (it moved 14° more than it should).
+Leg abduction,PM_005,16,incorrect,45,Keep your upper body upright (it moved 13° more than it should).
+Leg abduction,PM_005,17,incorrect,51,Keep your upper body upright (it moved 12° more than it should).
+Leg abduction,PM_005,18,incorrect,41,Keep your upper body upright (it moved 16° more than it should).
+Leg abduction,PM_005,19,incorrect,31,Keep your standing knee still (it moved 23° more than it should). Watch your upper body - the movement path differs from the demonstration.
+Leg abduction,PM_005,20,incorrect,32,Keep your upper body upright (it moved 21° more than it should). Watch your upper body - the movement path differs from the demonstration.
+Leg abduction,PM_005,session,,74,"20 reps, consistency 67/100, weakest factor: stability"

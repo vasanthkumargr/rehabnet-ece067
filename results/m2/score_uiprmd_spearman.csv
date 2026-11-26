@@ -1,0 +1,11 @@
+dataset,exercise,key_angles,recordings,rehabnet_score,handset_weights,posture,similarity,rom,stability,symmetry
+uiprmd,DS,"l_knee,r_knee,l_hip,r_hip",180,0.632,0.657,0.647,0.568,0.605,0.553,
+uiprmd,HS,"r_knee,r_hip",110,0.813,0.771,0.793,0.28,0.223,0.834,
+uiprmd,IL,"r_knee,r_hip,l_knee,r_shoulder",102,0.495,0.461,0.382,-0.177,0.354,0.657,
+uiprmd,SASLR,"r_hip,r_knee",146,0.519,0.463,0.096,-0.043,0.178,0.7,
+uiprmd,SL,"r_knee,r_hip,l_hip,trunk_lean",140,0.632,0.62,0.647,0.594,0.624,,
+uiprmd,SSA,r_shoulder,126,0.737,0.755,0.669,0.465,0.638,0.726,
+uiprmd,SSE,"r_shoulder,r_elbow",126,0.722,0.754,0.556,0.593,0.589,0.596,
+uiprmd,SSIER,r_elbow,120,0.622,0.569,0.391,0.261,0.298,0.718,
+uiprmd,SSS,"r_shoulder,r_elbow",108,0.76,0.655,0.322,0.453,0.036,0.777,
+uiprmd,STS,"r_knee,l_knee,l_hip,r_hip",168,0.498,0.328,0.309,0.04,-0.032,0.661,

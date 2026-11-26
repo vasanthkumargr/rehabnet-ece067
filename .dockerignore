@@ -1,0 +1,14 @@
+.venv
+data
+results
+deliverables
+kaggle
+models
+scripts
+tools
+app/data/*.db
+app/data/secrets.json
+app/data/*.pem
+app/data/DEMO_ACCOUNTS.md
+app/tests
+**/__pycache__

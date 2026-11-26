@@ -1,0 +1,5 @@
+[
+  {"file": "squat_PM_008.mp4", "exercise": "squat", "side": null, "label": "squats (REHAB24-6, 27 reps, last 5 incorrect)"},
+  {"file": "leg_abduction_PM_005.mp4", "exercise": "leg_abduction", "side": "l", "label": "left leg abduction (REHAB24-6, 20 reps, mixed)"},
+  {"file": "arm_abduction_PM_000.mp4", "exercise": "arm_abduction", "side": "r", "label": "right arm abduction (REHAB24-6, 5 reps)"}
+]

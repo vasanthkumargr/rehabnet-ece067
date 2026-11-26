@@ -1,0 +1,26 @@
+# RehabNet - Python dependencies (Python 3.11+)
+# core analysis
+mediapipe>=0.10
+opencv-python
+numpy
+scipy
+pandas
+scikit-learn
+dtaidistance
+matplotlib
+# web app
+fastapi
+uvicorn[standard]
+sqlalchemy
+bcrypt
+pyjwt
+pyotp
+qrcode[pil]
+cryptography
+python-multipart
+reportlab
+# reports / tests
+python-docx
+python-pptx
+pytest
+httpx

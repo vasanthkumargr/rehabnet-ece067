@@ -1,0 +1,9 @@
+method,cond,diff_pct,diff_pct_median,detected
+angles_deg,far_left,6.9,4.92,0.88
+angles_deg,far_right,1.16,0.47,0.99
+bbox,far_left,14.77,12.41,0.88
+bbox,far_right,1.79,0.83,0.99
+none,far_left,160.07,160.22,0.88
+none,far_right,151.68,150.36,0.99
+torso,far_left,11.46,11.6,0.88
+torso,far_right,1.84,0.81,0.99
